@@ -75,6 +75,7 @@ firestone+flm=(Film)
 firestone+flmb=(FilmB)
 firestone+flmm=(FilmM)
 firestone+flmp=(FilmP)
+firestone+noncirc=*NO CIRC*
 firestone+gestf=(GestF)
 firestone+gss=(GSS)
 firestone+hldn=(Holden)
